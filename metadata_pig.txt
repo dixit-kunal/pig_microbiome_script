@@ -1,0 +1,129 @@
+sampleID	ID	Timepoint	sample	PenID	Sex	Treatment 	Disease_score	pen	Description	Treatment_plan
+L2301065	L2301065	day_0	stool	P1	M	Neg control	3.5	P1	day_0_Neg control	Neg control
+L2301066	L2301066	day_0	stool	P2	F	Neg control	3	P2	day_0_Neg control	Neg control
+L2301067	L2301067	day_0	stool	P3	F	Neg control	1.5	P3	day_0_Neg control	Neg control
+L2301068	L2301068	day_0	stool	P4	M	Neg control	3	P4	day_0_Neg control	Neg control
+L2301069	L2301069	day_0	stool	P5	F	Neg control	2.5	P5	day_0_Neg control	Neg control
+L2301070	L2301070	day_0	stool	P6	M	Neg control	4	P6	day_0_Neg control	Neg control
+L2301071	L2301071	day_0	stool	P7	F	Neg control	2.5	P7	day_0_Neg control	Neg control
+L2301077	L2301077	day_0	stool	P13	F	Pos control	4	P8	day_0_Pos control	Pos control
+L2301078	L2301078	day_0	stool	P14	M	Pos control	5	P9	day_0_Pos control	Pos control
+L2301088	L2301088	day_0	stool	P24	M	Pos control	4.5	P10	day_0_Pos control	Pos control
+L2301097	L2301097	day_0	stool	P33	F	Pos control	3.5	P11	day_0_Pos control	Pos control
+L2301099	L2301099	day_0	stool	P35	F	Pos control	4	P12	day_0_Pos control	Pos control
+L2301107	L2301107	day_0	stool	P43	M	Pos control	3	P13	day_0_Pos control	Pos control
+L2301111	L2301111	day_0	stool	P47	F	Pos control	1	P14	day_0_Pos control	Pos control
+L2301074	L2301074	day_0	stool	P10	F	1% Glu	2	P15	day_0_1% Glu	Glu
+L2301075	L2301075	day_0	stool	P11	M	1% Glu	3	P16	day_0_1% Glu	Glu
+L2301080	L2301080	day_0	stool	P16	F	1% Glu	4	P17	day_0_1% Glu	Glu
+L2301090	L2301090	day_0	stool	P26	M	1% Glu	4	P18	day_0_1% Glu	Glu
+L2301094	L2301094	day_0	stool	P30	F	1% Glu	3.5	P19	day_0_1% Glu	Glu
+L2301101	L2301101	day_0	stool	P37	M	1% Glu	2	P20	day_0_1% Glu	Glu
+L2301113	L2301113	day_0	stool	P49	M	1% Glu	3.5	P21	day_0_1% Glu	Glu
+L2301072	L2301072	day_0	stool	P8	M	2% Glu	3.5	P22	day_0_2% Glu	Glu
+L2301083	L2301083	day_0	stool	P19	M	2% Glu	2.5	P23	day_0_2% Glu	Glu
+L2301085	L2301085	day_0	stool	P21	F	2% Glu	3.5	P24	day_0_2% Glu	Glu
+L2301093	L2301093	day_0	stool	P29	F	2% Glu	1.5	P25	day_0_2% Glu	Glu
+L2301100	L2301100	day_0	stool	P36	M	2% Glu	3	P26	day_0_2% Glu	Glu
+L2301103	L2301103	day_0	stool	P39	F	2% Glu	2	P27	day_0_2% Glu	Glu
+L2301110	L2301110	day_0	stool	P46	F	2% Glu	3.5	P28	day_0_2% Glu	Glu
+L2301081	L2301081	day_0	stool	P17	M	1% Asp	4.5	P29	day_0_1% Asp	Asp
+L2301082	L2301082	day_0	stool	P18	F	1% Asp	3.5	P30	day_0_1% Asp	Asp
+L2301086	L2301086	day_0	stool	P22	F	1% Asp	3	P31	day_0_1% Asp	Asp
+L2301095	L2301095	day_0	stool	P31	F	1% Asp	2	P32	day_0_1% Asp	Asp
+L2301096	L2301096	day_0	stool	P32	M	1% Asp	2	P33	day_0_1% Asp	Asp
+L2301102	L2301102	day_0	stool	P38	F	1% Asp	2	P34	day_0_1% Asp	Asp
+L2301108	L2301108	day_0	stool	P44	M	1% Asp	3	P35	day_0_1% Asp	Asp
+L2301073	L2301073	day_0	stool	P9	F	2% Asp	3	P36	day_0_2% Asp	Asp
+L2301084	L2301084	day_0	stool	P20	M	2% Asp	3.5	P37	day_0_2% Asp	Asp
+L2301089	L2301089	day_0	stool	P25	M	2% Asp	4	P38	day_0_2% Asp	Asp
+L2301091	L2301091	day_0	stool	P27	M	2% Asp	3	P39	day_0_2% Asp	Asp
+L2101092	L2101092	day_0	stool	P28	F	2% Asp	3	P40	day_0_2% Asp	Asp
+L2301105	L2301105	day_0	stool	P41	F	2% Asp	2	P41	day_0_2% Asp	Asp
+L2301112	L2301112	day_0	stool	P48	F	2% Asp	2.5	P42	day_0_2% Asp	Asp
+L2301076	L2301076	day_0	stool	P12	F	1% Antibiotics	3.5	P43	day_0_1% Antibiotics	Antibiotics
+L2301079	L2301079	day_0	stool	P15	F	1% Antibiotics	5	P44	day_0_1% Antibiotics	Antibiotics
+L2301087	L2301087	day_0	stool	P23	F	1% Antibiotics	3	P45	day_0_1% Antibiotics	Antibiotics
+L2301098	L2301098	day_0	stool	P34	F	1% Antibiotics	3	P46	day_0_1% Antibiotics	Antibiotics
+L2301104	L2301104	day_0	stool	P40	M	1% Antibiotics	3	P47	day_0_1% Antibiotics	Antibiotics
+L2301106	L2301106	day_0	stool	P42	M	1% Antibiotics	2	P48	day_0_1% Antibiotics	Antibiotics
+L2301109	L2301109	day_0	stool	P45	M	1% Antibiotics	1	P49	day_0_1% Antibiotics	Antibiotics
+L2301851	L2301851	day_14	stool	P3	F	Neg control	2.5	P1	day_14_Neg control	Neg control
+L2301850	L2301850	day_14	stool	P2	F	Neg control	2.5	P2	day_14_Neg control	Neg control
+L2301849	L2301849	day_14	stool	P1	M	Neg control	3	P3	day_14_Neg control	Neg control
+L2301855	L2301855	day_14	stool	P7	F	Neg control	2	P4	day_14_Neg control	Neg control
+L2301854	L2301854	day_14	stool	P6	M	Neg control	2.5	P5	day_14_Neg control	Neg control
+L2301853	L2301853	day_14	stool	P5	F	Neg control	2.5	P6	day_14_Neg control	Neg control
+L2301852	L2301852	day_14	stool	P4	M	Neg control	2.5	P7	day_14_Neg control	Neg control
+L2301895	L2301895	day_14	stool	P47	F	Pos control	1	P8	day_14_Pos control	Pos control
+L2301891	L2301891	day_14	stool	P43	M	Pos control	2.5	P9	day_14_Pos control	Pos control
+L2301883	L2301883	day_14	stool	P35	F	Pos control	3.5	P10	day_14_Pos control	Pos control
+L2301881	L2301881	day_14	stool	P33	F	Pos control	3	P11	day_14_Pos control	Pos control
+L2301872	L2301872	day_14	stool	P24	M	Pos control	2.5	P12	day_14_Pos control	Pos control
+L2301862	L2301862	day_14	stool	P14	M	Pos control	2	P13	day_14_Pos control	Pos control
+L2301861	L2301861	day_14	stool	P13	F	Pos control	2.5	P14	day_14_Pos control	Pos control
+L2301897	L2301897	day_14	stool	P49	M	1% Glu	2.5	P15	day_14_1% Glu	Glu
+L2301885	L2301885	day_14	stool	P37	M	1% Glu	2	P16	day_14_1% Glu	Glu
+L2301878	L2301878	day_14	stool	P30	F	1% Glu	2.5	P17	day_14_1% Glu	Glu
+L2301874	L2301874	day_14	stool	P26	M	1% Glu	2.5	P18	day_14_1% Glu	Glu
+L2301864	L2301864	day_14	stool	P16	F	1% Glu	2.5	P19	day_14_1% Glu	Glu
+L2301859	L2301859	day_14	stool	P11	M	1% Glu	2.5	P20	day_14_1% Glu	Glu
+L2301858	L2301858	day_14	stool	P10	F	1% Glu	2	P21	day_14_1% Glu	Glu
+L2301894	L2301894	day_14	stool	P46	F	2% Glu	1.5	P22	day_14_2% Glu	Glu
+L2301887	L2301887	day_14	stool	P39	F	2% Glu	1	P23	day_14_2% Glu	Glu
+L2301884	L2301884	day_14	stool	P36	M	2% Glu	1.5	P24	day_14_2% Glu	Glu
+L2301877	L2301877	day_14	stool	P29	F	2% Glu	3	P25	day_14_2% Glu	Glu
+L2301869	L2301869	day_14	stool	P21	F	2% Glu	2.5	P26	day_14_2% Glu	Glu
+L2301867	L2301867	day_14	stool	P19	M	2% Glu	2	P27	day_14_2% Glu	Glu
+L2301856	L2301856	day_14	stool	P8	M	2% Glu	2.5	P28	day_14_2% Glu	Glu
+L2301892	L2301892	day_14	stool	P44	M	1% Asp	2	P29	day_14_1% Asp	Asp
+L2301886	L2301886	day_14	stool	P38	F	1% Asp	2.5	P30	day_14_1% Asp	Asp
+L2301880	L2301880	day_14	stool	P32	M	1% Asp	2	P31	day_14_1% Asp	Asp
+L2301879	L2301879	day_14	stool	P31	F	1% Asp	2	P32	day_14_1% Asp	Asp
+L2301870	L2301870	day_14	stool	P22	F	1% Asp	3.5	P33	day_14_1% Asp	Asp
+L2301866	L2301866	day_14	stool	P18	F	1% Asp	3	P34	day_14_1% Asp	Asp
+L2301865	L2301865	day_14	stool	P17	M	1% Asp	3	P35	day_14_1% Asp	Asp
+L2301896	L2301896	day_14	stool	P48	F	2% Asp	2.5	P36	day_14_2% Asp	Asp
+L2301889	L2301889	day_14	stool	P41	F	2% Asp	2.5	P37	day_14_2% Asp	Asp
+L2301876	L2301876	day_14	stool	P28	F	2% Asp	2.5	P38	day_14_2% Asp	Asp
+L2301875	L2301875	day_14	stool	P27	M	2% Asp	1.5	P39	day_14_2% Asp	Asp
+L2301873	L2301873	day_14	stool	P25	M	2% Asp	2.5	P40	day_14_2% Asp	Asp
+L2301868	L2301868	day_14	stool	P20	M	2% Asp	3.5	P41	day_14_2% Asp	Asp
+L2301857	L2301857	day_14	stool	P9	F	2% Asp	2.5	P42	day_14_2% Asp	Asp
+L2301893	L2301893	day_14	stool	P45	M	1% Antibiotics	2	P43	day_14_1% Antibiotics	Antibiotics
+L2301890	L2301890	day_14	stool	P42	M	1% Antibiotics	2	P44	day_14_1% Antibiotics	Antibiotics
+L2301888	L2301888	day_14	stool	P40	M	1% Antibiotics	2.5	P45	day_14_1% Antibiotics	Antibiotics
+L2301882	L2301882	day_14	stool	P34	F	1% Antibiotics	1.5	P46	day_14_1% Antibiotics	Antibiotics
+L2301871	L2301871	day_14	stool	P23	F	1% Antibiotics	2	P47	day_14_1% Antibiotics	Antibiotics
+L2301863	L2301863	day_14	stool	P15	F	1% Antibiotics	2.5	P48	day_14_1% Antibiotics	Antibiotics
+L2301860	L2301860	day_14	stool	P12	F	1% Antibiotics	2	P49	day_14_1% Antibiotics	Antibiotics
+L2301015	L2301015	day_-7	stool	P1	M	Neg control	1	P1	day_-7_Neg control	Neg control
+L2301016	L2301016	day_-7	stool	P2	F	Neg control	1	P2	day_-7_Neg control	Neg control
+L2301017	L2301017	day_-7	stool	P3	F	Neg control	1	P3	day_-7_Neg control	Neg control
+L2301018	L2301018	day_-7	stool	P4	M	Neg control	1	P4	day_-7_Neg control	Neg control
+L2301019	L2301019	day_-7	stool	P5	F	Neg control	1	P5	day_-7_Neg control	Neg control
+L2301020	L2301020	day_-7	stool	P6	M	Neg control	1	P6	day_-7_Neg control	Neg control
+L2301021	L2301021	day_-7	stool	P7	F	Neg control	1	P7	day_-7_Neg control	Neg control
+L2301039	L2301039	day_-7	stool	P24	M	Pos control	1	P9	day_-7_Pos control	Pos control
+L2301058	L2301058	day_-7	stool	P43	M	Pos control	1	P10	day_-7_Pos control	Pos control
+L2301048	L2301048	day_-7	stool	P33	F	Pos control	1	P11	day_-7_Pos control	Pos control
+L2301050	L2301050	day_-7	stool	P35	F	Pos control	1	P12	day_-7_Pos control	Pos control
+L2301025	L2301025	day_-7	stool	P10	F	1% Glu	1	P15	day_-7_1% Glu	Glu
+L2301026	L2301026	day_-7	stool	P11	M	1% Glu	1	P16	day_-7_1% Glu	Glu
+L2301031	L2301031	day_-7	stool	P16	F	1% Glu	1	P17	day_-7_1% Glu	Glu
+L2301041	L2301041	day_-7	stool	P26	M	1% Glu	1	P18	day_-7_1% Glu	Glu
+L2301052	L2301052	day_-7	stool	P37	M	1% Glu	1	P19	day_-7_1% Glu	Glu
+L2301034	L2301034	day_-7	stool	P19	M	2% Glu	1	P22	day_-7_2% Glu	Glu
+L2301044	L2301044	day_-7	stool	P29	F	2% Glu	1	P23	day_-7_2% Glu	Glu
+L2301054	L2301054	day_-7	stool	P39	F	2% Glu	1	P24	day_-7_2% Glu	Glu
+L2301032	L2301032	day_-7	stool	P17	M	1% Asp	1	P29	day_-7_1% Asp	Asp
+L2301033	L2301033	day_-7	stool	P18	F	1% Asp	1	P30	day_-7_1% Asp	Asp
+L2301053	L2301053	day_-7	stool	P38	F	1% Asp	1	P31	day_-7_1% Asp	Asp
+L2301024	L2301024	day_-7	stool	P9	F	2% Asp	1	P36	day_-7_2% Asp	Asp
+L2301040	L2301040	day_-7	stool	P25	M	2% Asp	1	P37	day_-7_2% Asp	Asp
+L2301042	L2301042	day_-7	stool	P27	M	2% Asp	1	P38	day_-7_2% Asp	Asp
+L2301027	L2301027	day_-7	stool	P12	F	1% Antibiotics	1	P43	day_-7_1% Antibiotics	Antibiotics
+L2301030	L2301030	day_-7	stool	P15	F	1% Antibiotics	1	P44	day_-7_1% Antibiotics	Antibiotics
+L2301057	L2301057	day_-7	stool	P42	M	1% Antibiotics	1	P45	day_-7_1% Antibiotics	Antibiotics
+L2301049	L2301049	day_-7	stool	P34	F	1% Antibiotics	1	P46	day_-7_1% Antibiotics	Antibiotics
+L2301055	L2301055	day_-7	stool	P40	M	1% Antibiotics	1	P47	day_-7_1% Antibiotics	Antibiotics
